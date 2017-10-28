@@ -1,2 +1,2 @@
-# Arma-3-Alits-Life-redraw-transport-script
+# Arma-3-RedRaw-Scripts
 The part of redraw gaming's server that I actually developed for...
