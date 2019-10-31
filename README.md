@@ -1,4 +1,4 @@
-# Arma-3-RedRaw-Scripts
+# Arma3AltisLifeScripts
 The part of redraw gaming's server that I actually developed for...
 
 Trucking scripts, is part of a system developed to work exclusively with the RR framwork developed by the RedRaw team. So it would be possible for you to integrate but like don't bother right your own.
